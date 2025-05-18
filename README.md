@@ -1,7 +1,7 @@
 # 🧠 Melonity Dota2 — Precision Utility Framework for Dota 2
 
 ![Game](https://img.shields.io/badge/Game-Dota%202-red)
-![Script](https://img.shields.io/badge/Type-Roblox%20Script-blue)
+![Script](https://img.shields.io/badge/Type-Dota2%20Cheat-blue)
 ![Status](https://img.shields.io/badge/Status-Private%20Build-orange)
 
 Melonity is a **Dota 2 enhancement suite** focused on competitive-level automation, clarity overlays, and reaction optimization — designed for players who value precision, control, and low-latency tools.
